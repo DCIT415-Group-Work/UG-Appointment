@@ -1,0 +1,37 @@
+.lecturerlogin{
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+  }
+  .lecturerlogin1{
+    background-color: #FFFFFF;
+    max-width: 450px;
+    width: 90vw;
+    border-radius: 4px;
+    box-shadow: 0 6px 12px #9b9a9c;
+    margin: 4rem 0;
+    padding: 1.5rem 2rem;
+  }
+  .lecturerlogin1 h3, .lecturerlogin1 h4 {
+    text-transform: uppercase;
+  }
+
+  .lecturerlogin1 div{
+    background-color: #5EB761;
+    color: #fff;
+    /* width: 100%; */
+    margin-top: 1rem;
+    /* padding-top: 1rem; */
+    text-align: center;
+    /* margin: auto; */
+    column-gap: 2rem;
+    padding-top: 0.6rem;
+    padding-bottom: 0.4rem;
+    border-radius: 4px;
+
+  }
+  .lecturerloginContent{
+    width: 100%;
+    margin-top: 2rem;
+  }
